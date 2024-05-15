@@ -1,4 +1,4 @@
-# Hosting-Website
+# Hosting Website
 This is a hosting website project built using React, TypeScript, and Tailwind CSS. The website serves as a platform for hosting services, providing users with an intuitive and interactive interface to manage their hosting needs. With its modern and responsive design, it aims to offer a seamless experience across various devices.
 
 ## Technologies
